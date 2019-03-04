@@ -1,3 +1,2 @@
 Find the max value of an array:
-
-https://jsperf.com/max-min-value-comparison/1 
+  https://jsperf.com/max-min-value-comparison/1 
